@@ -1,0 +1,11 @@
+{
+  "name": "vue3-fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm -C ./server dev & pnpm -C ./content-manage dev"
+  },
+  "author": "mrpandaliu",
+  "license": "ISC"
+}
